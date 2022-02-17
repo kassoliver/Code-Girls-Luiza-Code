@@ -22,7 +22,7 @@ const doc = {
       password: 12345678,
     },
     Store: {
-      name: 'MariaBaeta',
+      name: 'Kássia',
       id: 1,
     },
     Products: {

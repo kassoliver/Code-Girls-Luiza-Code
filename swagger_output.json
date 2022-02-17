@@ -31,11 +31,19 @@
               "type": "object",
               "properties": {
                 "email": {
-                  "example": "any"
+                  "example": "any",
+                  "type": "number"
                 },
                 "password": {
-                  "example": "any"
+                  "example": "any",
+                  "type": "number"
                 }
+              }
+            },
+            "x-examples": {
+              "example-1": {
+                "email": "teste@test.vom.br",
+                "password": "********"
               }
             }
           }
