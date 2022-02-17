@@ -32,17 +32,17 @@
               "properties": {
                 "email": {
                   "example": "any",
-                  "type": "number"
+                  "type": "string"
                 },
                 "password": {
                   "example": "any",
-                  "type": "number"
+                  "type": "string"
                 }
               }
             },
             "x-examples": {
               "example-1": {
-                "email": "teste@test.vom.br",
+                "email": "teste@test.com.br",
                 "password": "********"
               }
             }
